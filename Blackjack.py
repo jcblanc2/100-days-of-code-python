@@ -13,7 +13,7 @@
 ##################### Hints #####################
 import random
 from replit import clear
-from art import logo
+from art import logoBlackjack
 
 
 def deal_card():
